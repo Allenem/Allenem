@@ -2,7 +2,7 @@
 
 I am Yao Pu, a postgraduate in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
 
-- :seedling: I’m currently learning **CEST**.
+- :seedling: I’m currently learning **BloodVesselsSegmentation**.
 - :dancers: I’m looking to collaborate on partner in the same research direction.
 - :speech_balloon: Ask me about **DeepLearning, MachineLearning, MedicalImaging, WebFrontEnd, NaturalLanguageProcessing**.
 - :mailbox: How to reach me: [**1820988819@qq.com**](mailto:1820988819@qq.com).
