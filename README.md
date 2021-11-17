@@ -8,8 +8,10 @@ I am Yao Pu, a postgraduate in Shenzhen Institute of Advanced Technology, Chines
 - :mailbox: How to reach me: [**1820988819@qq.com**](mailto:1820988819@qq.com).
 
 
-[![lazy status](https://github-readme-stats.vercel.app/api/top-langs/?username=Allenem)](https://github.com/Allenem)
-[![github stats](https://github-readme-stats.vercel.app/api?username=Allenem&show_icons=true)](https://github.com/Allenem)
+[![lazy status](https://github-readme-stats.vercel.app/api/top-langs/?username=Allenem&layout=compact&theme=radical)](https://github.com/Allenem)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Allenem&show_icons=true&theme=radical)](https://github.com/Allenem)
+
+<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=Allenem&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff)](https://github.com/Allenem) -->
 
 <!--
 **Allenem/Allenem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
