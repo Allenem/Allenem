@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Yao Pu, a postgraduate in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
+I am Yao PU, a postgraduate in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
 
 - :seedling: I’m currently learning **BloodVesselsSegmentation** & **VascularCenterlineExtraction**.
 - :dancers: I’m looking to collaborate on partner in the same research direction.
