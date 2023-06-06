@@ -2,7 +2,7 @@
 
 I am Yao PU, a postgraduate in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences :cn:.
 
-- :seedling: I’m currently working on **BloodVesselSegmentation/VascularCenterlineExtraction/Semi-supervisedLearning**.
+- :seedling: I’m currently working on **DefusionModel/BloodVesselSegmentation/Semi-supervisedLearning**.
 
 - :dancers: I’m looking to collaborate with partners on the similar research area.
 
@@ -19,23 +19,27 @@ I am Yao PU, a postgraduate in Shenzhen Institute of Advanced Technology, Chines
 
 <table>
    <tr>
+      <td><a href="https://github.com/Allenem/DDPM"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenem&repo=DDPM&theme=buefy" /></a></td>
       <td><a href="https://github.com/Allenem/SSL4DSA"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenem&repo=SSL4DSA&theme=buefy" /></a></td>
+   </tr>
+   <tr>
       <td><a href="https://github.com/Allenem/MedicalImage"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenem&repo=MedicalImage&theme=buefy"/></a></td>
-   </tr>
-   <tr>
       <td><a href="https://github.com/Allenem/PatternRecognition"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenem&repo=PatternRecognition&theme=buefy" /></a></td>
+   </tr>
+   <tr>
       <td><a href="https://github.com/Allenem/DeepLearningCourse"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenem&repo=DeepLearningCourse&theme=buefy" /></a></td>
-   </tr>
-   <tr>
       <td><a href="https://github.com/Allenem/transformer"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenem&repo=transformer&theme=buefy" /></a></td>
+   </tr>
+   <tr>
       <td><a href="https://github.com/Allenem/YOLOv3SPP"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenem&repo=YOLOv3SPP&theme=buefy" /></a></td>
-   </tr>
-   <tr>
       <td><a href="https://github.com/Allenem/graduation-design"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenem&repo=graduation-design&theme=buefy" /></a></td>
-      <td><a href="https://github.com/Allenem/CapitalManagementSystem"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenem&repo=CapitalManagementSystem&theme=buefy" /></a></td>
    </tr>
    <tr>
+      <td><a href="https://github.com/Allenem/CapitalManagementSystem"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenem&repo=CapitalManagementSystem&theme=buefy" /></a></td>
       <td><a href="https://github.com/Allenem/DIPhomework"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenem&repo=DIPhomework&theme=buefy" /></a></td>
+   </tr>
+   <tr>
+      <td><a href="https://github.com/Allenem/GitHubNoteBook"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenem&repo=GitHubNoteBook&theme=buefy" /></a></td>
       <td><a href="https://github.com/Allenem/GitHubNoteBook"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenem&repo=GitHubNoteBook&theme=buefy" /></a></td>
    </tr>
 </table>
