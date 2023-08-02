@@ -2,7 +2,7 @@
 
 I am Yao PU, a postgraduate in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences :cn:.
 
-- :seedling: I’m currently working on **DefusionModel/BloodVesselSegmentation/Semi-supervisedLearning**.
+- :seedling: I’m currently working on **DiffusionModel/BloodVesselSegmentation/Semi-supervisedLearning**.
 
 - :dancers: I’m looking to collaborate with partners on the similar research area.
 
@@ -14,6 +14,18 @@ I am Yao PU, a postgraduate in Shenzhen Institute of Advanced Technology, Chines
 
 | <a href="https://github.com/Allenem"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Allenem&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Allenem"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenem&layout=compact&theme=buefy&hide_border=true" /></a> |
 | - | - |
+
+### Leetcode Stats
+
+[![](https://leetcode-badge.haozibi.dev/v1cn/allenem.svg?logo=leetcode)](https://leetcode.cn/u/allenem/) 
+[![](https://leetcode-badge.haozibi.dev/v1cn/ranking/allenem.svg?logo=leetcode)](https://leetcode.cn/u/allenem/) 
+[![](https://leetcode-badge.haozibi.dev/v1cn/solved/allenem.svg?logo=leetcode)](https://leetcode.cn/u/allenem/) 
+[![](https://leetcode-badge.haozibi.dev/v1cn/solved-rate/allenem.svg?logo=leetcode)](https://leetcode.cn/u/allenem/) 
+[![](https://leetcode-badge.haozibi.dev/v1cn/accepted/allenem.svg?logo=leetcode)](https://leetcode.cn/u/allenem/) 
+[![](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/allenem.svg?logo=leetcode)](https://leetcode.cn/u/allenem/)
+[![](https://leetcode-badge.haozibi.dev/v1cn/card/question-process/allenem.svg?lang=en&logo=leetcode)](https://leetcode.cn/u/allenem/)
+<!--[![](https://leetcode-badge.haozibi.dev/v1cn/card/contest-ranking/allenem.svg?logo=leetcode)](https://leetcode.cn/u/allenem/)-->
+[![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/allenem.svg?type=past-year&color=yellow&logo=leetcode)](https://leetcode.cn/u/allenem/)
 
 ### Top Repositories
 
