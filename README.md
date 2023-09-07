@@ -1,12 +1,20 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I am Yao PU, a postgraduate in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences :cn:.
+<!--I am Yao PU, a postgraduate in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences :cn:.-->
 
-- :seedling: I’m currently working on **DiffusionModel/BloodVesselSegmentation/Semi-supervisedLearning**.
+I am **Yao PU**. 
 
-- :dancers: I’m looking to collaborate with partners on the similar research area.
+- A PhD in The Hong Kong Polytechnic University (PolyU), :hk:.
+- A Master in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences :cn:.
+- An undergraduate in South China University of Technology (SCUT) :cn:.
+
+---
+
+- :seedling: I’m currently working on **DiffusionModel/Semi-supervisedLearning/VascularSegmentation**.
 
 - :speech_balloon: Ask me anything related to **DeepLearning**, **MachineLearning**, **MedicalImageAnalysis**, **NaturalLanguageProcessing**, **ObjectDetection**, **WebFrontEnd**.
+
+- :dancers: I’m looking to collaborate with partners on the similar research area.
 
 - :mailbox: How to reach me: [**1820988819@qq.com**](mailto:1820988819@qq.com).
 
@@ -52,7 +60,7 @@ I am Yao PU, a postgraduate in Shenzhen Institute of Advanced Technology, Chines
    </tr>
    <tr>
       <td><a href="https://github.com/Allenem/GitHubNoteBook"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenem&repo=GitHubNoteBook&theme=buefy" /></a></td>
-      <td><a href="https://github.com/Allenem/GitHubNoteBook"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenem&repo=GitHubNoteBook&theme=buefy" /></a></td>
+      <td><a href="https://github.com/Allenem/LeetCode"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenem&repo=LeetCode&theme=buefy" /></a></td>
    </tr>
 </table>
 
