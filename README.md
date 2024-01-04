@@ -1,22 +1,12 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<!--I am Yao PU, a postgraduate in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences :cn:.-->
-
 I am **Yao PU**. 
 
-- A PhD in The Hong Kong Polytechnic University (PolyU), :hk:.
-- A Master in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences :cn:.
-- An undergraduate in South China University of Technology (SCUT) :cn:.
-
----
-
-- :seedling: I’m currently working on **DiffusionModel/Semi-supervisedLearning/VascularSegmentation**.
-
-- :speech_balloon: Ask me anything related to **DeepLearning**, **MachineLearning**, **MedicalImageAnalysis**, **NaturalLanguageProcessing**, **ObjectDetection**, **WebFrontEnd**.
-
-- :dancers: I’m looking to collaborate with partners on the similar research area.
-
-- :mailbox: How to reach me: [**1820988819@qq.com**](mailto:1820988819@qq.com).
+- :mortar_board: A PhD candidate in The Hong Kong Polytechnic University (PolyU), :hk:, :cn:.
+- :mortar_board: A Master in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences :cn:.
+- :mortar_board: An undergraduate in South China University of Technology (SCUT) :cn:.
+- :microscope: Research area: **Deep Learning**, **Machine Learning**, **Medical Image Processing**, **Natural Language Processing**, **Object Detection**, **Web Front End**, **Python**, **C++**, **Diffusion Model**, **Semi-supervised Learning**, and so on.
+- :mailbox: Email: [**1820988819@qq.com**](mailto:1820988819@qq.com).
 
 ### Github Stats
 
@@ -84,4 +74,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- :seedling: I’m currently working on **Diffusion Model**, **Semi-supervised Learning**, **Vascular Segmentation**.
+- :speech_balloon: Ask me anything related to **DeepLearning**, **MachineLearning**, **MedicalImageAnalysis**, **NaturalLanguageProcessing**, **ObjectDetection**, **WebFrontEnd**.
+- :dancers: I’m looking to collaborate with partners on the similar research area.
+- :mailbox: How to reach me: [**1820988819@qq.com**](mailto:1820988819@qq.com).
 -->
