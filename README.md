@@ -1,11 +1,11 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 I am **Yao PU**. 
 
 - :mortar_board: A PhD candidate in The Hong Kong Polytechnic University (PolyU), :hk:, :cn:.
 - :mortar_board: A Master in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences :cn:.
 - :mortar_board: An undergraduate in South China University of Technology (SCUT) :cn:.
-- :microscope: Research area: **Deep Learning**, **Machine Learning**, **Medical Image Processing**, **Natural Language Processing**, **Object Detection**, **Web Front End**, **Python**, **C++**, **Diffusion Model**, **Semi-supervised Learning**, and so on.
+- :microscope: Research area: **Deep Learning**, **Machine Learning**, **Medical Image Processing**, **Natural Language Processing**, **Object Detection**, **Web Front End**, **Python**, **C++**, **Diffusion Model**, **Semi-supervised Learning**, **Generative Adversarial Network (GAN)**, and so on.
 - :mailbox: Email: [**1820988819@qq.com**](mailto:1820988819@qq.com).
 
 ### Github Stats
